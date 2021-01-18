@@ -7,10 +7,10 @@
 ## backend
 
   ### install
-    ```$ npm install```
+    $ npm install
 
   ### run
-    ```$ npm start```
+    $ npm start
    
 ## frontend
   open in android studio and run
