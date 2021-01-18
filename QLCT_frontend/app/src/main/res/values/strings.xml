@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QLCT</string>
+    <string name="hint_username">Họ và tên</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="button_sign_in">Đăng nhập</string>
+    <string name="button_sign_up">Đăng ký</string>
+    <string name="button_send">Gửi</string>
+    <string name="text_forgot_password">Quên mật khẩu?</string>
+    <string name="text_signin_message">Xin chào, hãy đăng nhập vào tài khoản của bạn</string>
+    <string name="text_signin_signup">
+        không có tài khoản?
+        <b>Đăng ký</b>
+    </string>
+    <string name="text_signup_terms">
+        Bằng đăng ký, bạn đồng ý với các
+        <b>điều khoản và điều kiện</b>
+
+    </string>
+    <string name="text_signup_message">Xin chào, hãy nhập thông tin của bạn</string>
+    <string name="text_forgot_password_title">Quên mật khẩu? Đừng lo lắng</string>
+    <string name="text_forgot_password_message">Chúng tôi sẽ gửi đường dẫn để bạn lấy lại mật khẩu</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Điện thoại</string>
+    <string name="hint_confirm_password">Xác nhận mật khẩu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="is_empty">Không có dữ liệu</string>
+</resources>

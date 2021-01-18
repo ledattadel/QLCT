@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_giaodich"
+        android:enabled="true"
+        android:icon="@drawable/ic_wallet"
+        android:title="Giao dịch" />
+    <item
+        android:id="@+id/navigation_thongke"
+        android:icon="@drawable/ic_chart"
+        android:title="Báo cáo" />
+    <item
+        android:id="@+id/navigation_them"
+        android:title="" />
+    <item
+        android:id="@+id/navigation_vayno"
+        android:icon="@drawable/ic_assignment"
+        android:title="Vay nợ" />
+    <item
+        android:id="@+id/navigation_taikhoan"
+        android:icon="@drawable/ic_account"
+        android:title="Tài khoản" />
+</menu>
