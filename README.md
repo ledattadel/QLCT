@@ -1,5 +1,4 @@
 # QLCT
-Đồ án thực tập
 
 # SETUP
 
